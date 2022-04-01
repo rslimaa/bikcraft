@@ -11,6 +11,7 @@
 @import "./home/intro.css";
 @import "./home/tech.css";
 @import "./home/partners.css";
+@import "./home/testmony.css";
 
 /* Bikes */
-@import "./bikes/bikes-list.css"
+@import "./bikes/bikes-list.css";
